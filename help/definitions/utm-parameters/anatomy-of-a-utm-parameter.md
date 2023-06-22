@@ -1,18 +1,18 @@
 ---
-title: UTM参数的解剖
-description: 获取UTM的概述及其设置方式。 长度应介于60到160个字符之间。
-kt: 11232
+title: UTM参数的剖析
+description: 大致了解UTM及其设置方式。 字符数应介于60和160之间。
+jira: KT-11232
 thumbnail: 347199.jpeg
 exl-id: 8bb6de32-8ad5-4d1c-883d-03979992a363
-source-git-commit: 9e38b740e29a827d5d64ef4e7fbf9e18dcf30643
+source-git-commit: b60003c6fa73401ca980a46ae47be00a1bb457ae
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 0%
 
 ---
 
-# UTM参数的解剖
+# UTM参数的剖析
 
-观看UTM的概述及其设置方式。
+观看什么是UTM及其设置方式的概述。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347199/?quality=12&learn=on)
