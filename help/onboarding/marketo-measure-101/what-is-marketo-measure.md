@@ -1,6 +1,6 @@
 ---
 title: 什么是 [!DNL Marketo Measure]
-description: 本课程简要介绍Marketo Measure的功能及原因。
+description: 本课程简要介绍Marketo Measure的功能及其原因。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -8,7 +8,8 @@ last-substantial-update: 2023-01-06T00:00:00Z
 jira: KT-11679
 thumbnail: 347236.jpeg
 exl-id: 383669ad-a642-48b1-9b72-a8eb8b8af149
-source-git-commit: b60003c6fa73401ca980a46ae47be00a1bb457ae
+feature: Fundamentals
+source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
 workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 0%
@@ -17,6 +18,6 @@ ht-degree: 0%
 
 # 什么是Marketo Measure
 
-本课程简要介绍Marketo Measure的功能及原因。
+本课程简要介绍Marketo Measure的功能及其原因。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347236/?quality=12&learn=on)
