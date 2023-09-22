@@ -9,9 +9,9 @@ jira: KT-11825
 thumbnail: 347184.jpeg
 exl-id: ac39a5a5-544e-4e1f-85c7-5d1f08a8e6d8
 feature: Reporting
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: '39'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本课程介绍如何查看和共享报表和功能板。
 
->[!VIDEO](https://video.tv.adobe.com/v/347184/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347184/?learn=on){transcript=true}

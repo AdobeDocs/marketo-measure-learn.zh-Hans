@@ -9,9 +9,9 @@ jira: KT-11681
 thumbnail: 347246.jpeg
 exl-id: 61bdf9e2-1861-46ba-96d2-261eee5e3630
 feature: Touchpoints
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本课程将介绍什么是接触点 [!DNL Marketo Measure]、如何创建变量以及用于归因。 [!DNL Marketo Measure] 数据对象，包括 [!DNL Marketo Measure] 接触点(BT)和 [!DNL Marketo Measure] 引入了归因接触点(BAT)。
 
->[!VIDEO](https://video.tv.adobe.com/v/347246/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347246/?learn=on){transcript=true}
