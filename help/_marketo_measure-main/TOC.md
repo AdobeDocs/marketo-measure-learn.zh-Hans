@@ -2,10 +2,11 @@
 user-guide-title: "[!DNL Marketo Measure] 教程"
 breadcrumb-title: "[!DNL Marketo Measure] 教程"
 user-guide-description: 了解如何充分利用 [!DNL Adobe Marketo Measure] (以前称为 [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] 基础和定义。
-source-git-commit: 544bb31ce388b2952c98bb34622b1a6bbeca5d99
+auto-video-transcripts: true
+source-git-commit: 88f70953a105ff0feddda60bed11449a219c824b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '240'
+ht-degree: 3%
 
 ---
 
@@ -21,8 +22,8 @@ ht-degree: 0%
 + 入门{#onboarding}
    + 营销角色{#marketing-role}
       + [原因 [!DNL Marketo Measure] 针对CMO和VP](/help/onboarding/marketing-role/cmo-and-vp-why.md)
-      + [使用 [!DNL Marketo Measure] 作为CMO或副总裁](/help/onboarding/marketing-role/cmo-and-vp-using.md)
-      + [原因 [!DNL Marketo Measure] 面向需求一代/付费媒体](/help/onboarding/marketing-role/demand-gen-why.md)
+      + [使用 [!DNL Marketo Measure] 作为CMO或VP](/help/onboarding/marketing-role/cmo-and-vp-using.md)
+      + [原因 [!DNL Marketo Measure] 面向需求的一代/付费媒体](/help/onboarding/marketing-role/demand-gen-why.md)
       + [使用 [!DNL Marketo Measure] 作为需求一代/付费媒体营销人员](/help/onboarding/marketing-role/demand-gen-using.md)
       + [原因 [!DNL Marketo Measure] 用于内容营销](/help/onboarding/marketing-role/content-marketing-why.md)
       + [使用 [!DNL Marketo Measure] 作为内容营销人员](/help/onboarding/marketing-role/content-marketing-using.md)
@@ -40,12 +41,12 @@ ht-degree: 0%
       + [此 [!DNL Marketo Measure] ROI仪表板](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Stock Salesforce报表](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [其他Salesforce报告](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
-      + [data warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
+      + [Data Warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
    + [!DNL Marketo Measure] 和Salesforce{#marketo-measure-salesforce}
       + [按ID列出的潜在客户报表](/help/onboarding/marketo-measure-salesforce/leads-by-id-report.md)
       + [创建渠道和子渠道](/help/onboarding/marketo-measure-salesforce/creating-channels-subchannels.md)
       + [使用CSV文件设置渠道规则](/help/onboarding/marketo-measure-salesforce/channel-rules-csv.md)
-      + [营销活动对象字段](/help/onboarding/marketo-measure-salesforce/campaign-object-fields.md)
+      + [Campaign对象字段](/help/onboarding/marketo-measure-salesforce/campaign-object-fields.md)
       + [映射离线渠道](/help/onboarding/marketo-measure-salesforce/mapping-offline-channels.md)
       + [同步离线营销活动](/help/onboarding/marketo-measure-salesforce/syncing-offline-campaigns.md)
    + 基础知识{#fundamentals}
@@ -64,9 +65,9 @@ ht-degree: 0%
       + [归因模型](/help/definitions/attribution/attribution-models.md)
       + [首次接触模型](/help/definitions/attribution/first-touch-model.md)
       + [商机创建模型](/help/definitions/attribution/lead-creation-model.md)
-      + [U型模型](/help/definitions/attribution/u-shaped-model.md)
-      + [W型模型](/help/definitions/attribution/w-shaped-model.md)
-      + [完整路径模型](/help/definitions/attribution/full-path-model.md)
+      + [U形模型](/help/definitions/attribution/u-shaped-model.md)
+      + [W形模型](/help/definitions/attribution/w-shaped-model.md)
+      + [全路径模型](/help/definitions/attribution/full-path-model.md)
    + CRM对象{#crm-objects}
       + [概述 [!DNL Marketo Measure] 分类](/help/definitions/crm-objects/taxonomy-overview.md)
       + [CRM对象](/help/definitions/crm-objects/crm-objects.md)
@@ -77,9 +78,9 @@ ht-degree: 0%
       + [BAT对象](/help/definitions/crm-objects/bat-object.md)
       + [Marketo Measure人员](/help/definitions/crm-objects/marketo-measure-person.md)
    + UTM参数{#utm-parameters}
-      + [如何 [!DNL Marketo Measure] 标记功能](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
+      + [如何 [!DNL Marketo Measure] 标记工作](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
       + [将集成平台与 [!DNL Marketo Measure]](/help/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
-      + [UTM参数的剖析](/help/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
+      + [UTM参数剖析](/help/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
       + [UTM最佳实践](/help/definitions/utm-parameters/utm-best-practices.md)
       + [UTM参数自动标记工具](/help/definitions/utm-parameters/utm-parameter-auto-tagging-tools.md)
       + [UTM标记](/help/definitions/utm-parameters/utm-tagging.md)
@@ -88,6 +89,6 @@ ht-degree: 0%
       + [[!UICONTROL Accounts by Engagement Score]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
       + [[!UICONTROL Accounts with Leads and Contacts] 报告](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
       + [[!UICONTROL Touchpoints per Account] 报告](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
-   + 回马朗阶段{#boomerang-stage}
+   + 回马朗舞台{#boomerang-stage}
       + [自走式阶段简介](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
-      + [设置回音符阶段](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
+      + [设置自转站阶段](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
