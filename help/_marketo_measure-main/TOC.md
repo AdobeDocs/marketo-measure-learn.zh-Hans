@@ -3,10 +3,10 @@ user-guide-title: "[!DNL Marketo Measure] 教程"
 breadcrumb-title: "[!DNL Marketo Measure] 教程"
 user-guide-description: 了解如何充分利用 [!DNL Adobe Marketo Measure] (以前称为 [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] 基础和定义。
 auto-video-transcripts: true
-source-git-commit: 88f70953a105ff0feddda60bed11449a219c824b
+source-git-commit: a71b88cd45d3518569a37e416b4601a2928e816d
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 3%
+source-wordcount: '299'
+ht-degree: 2%
 
 ---
 
@@ -20,6 +20,18 @@ ht-degree: 3%
    + [共享和隐藏报告和仪表板](/help/installing/sharing-reports-production.md)
    + [创建 [!DNL Marketo Measure] 帐户](/help/installing/creating-marketo-measure-account-production.md)
 + 入门{#onboarding}
+   + 最佳实践{#best-practices}
+      + [查看报表设置(Pt.1)](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
+      + [查看渠道和集成设置(Pt.2)](/help/onboarding/fundamentals/channel-integration-settings.md)
+      + [CRM设置(Pt.3)](/help/onboarding/fundamentals/crm-settings.md)
+      + [潜在客户、联系人和机会的设置](/help/onboarding/fundamentals/leads-contacts-opps-settings.md)
+      + [在线渠道设置](/help/onboarding/fundamentals/online-channel-setup.md)
+      + [Ads连接概述](/help/onboarding/fundamentals/ads-connection-overview.md)
+      + [SFDC安装概述](/help/onboarding/fundamentals/sfdc-installation-overview.md)
+      + [脱机渠道设置](/help/onboarding/fundamentals/offline-channel-setup.md)
+      + [与Marketo Engage的连接](/help/onboarding/fundamentals/connection-with-marketo-engage.md)
+      + [活动接触点](/help/onboarding/fundamentals/activity-touchpoints.md)
+      + [抑制、分段和成本](/help/onboarding/fundamentals/suppression-segmentation-cost.md)
    + 营销角色{#marketing-role}
       + [原因 [!DNL Marketo Measure] 针对CMO和VP](/help/onboarding/marketing-role/cmo-and-vp-why.md)
       + [使用 [!DNL Marketo Measure] 作为CMO或VP](/help/onboarding/marketing-role/cmo-and-vp-using.md)
@@ -54,6 +66,9 @@ ht-degree: 3%
       + [活动归因](/help/onboarding/fundamentals/activities-attribution.md)
 + [!DNL Marketo Measure] 发现{#marketo-measure-discover}
    + [简介 [!DNL Marketo Measure] 发现](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
+   + [确定正在执行的渠道(Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
+   + [确定正在执行的渠道(Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
+   + [发现漏斗报表(Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
 + 定义{#definitions}
    + 接触点{#touchpoints}
       + [什么是接触点？](/help/definitions/touchpoints/what-is-a-touchpoint.md)
