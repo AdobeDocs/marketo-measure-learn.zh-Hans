@@ -9,9 +9,9 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-18T00:00:00Z
 jira: KT-14203
 thumbnail: 3425023.jpeg
-source-git-commit: 6c13e7ff801df0bc9b599e2b713b6c33581848f7
+source-git-commit: e7224f9c11e442e16f326d94a79c13933834c6a6
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # 探索ROI仪表板 — 精选视频
 
-Marketo Measure Discover ROI功能板
+ROI仪表板为营销人员提供了跨渠道、子渠道和营销活动的投资回报的精细视图。 它仔细地划分成本和收入模式，同时重点列出每个商机的成本、交易和机会等指标，以确保全面了解营销归因。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425023/?learn=on){transcript=true}
