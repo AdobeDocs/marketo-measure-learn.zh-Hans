@@ -3,10 +3,10 @@ user-guide-title: "[!DNL Marketo Measure] 教程"
 breadcrumb-title: "[!DNL Marketo Measure] 教程"
 user-guide-description: 了解如何充分利用 [!DNL Adobe Marketo Measure] (以前称为 [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] 基础和定义。
 auto-video-transcripts: true
-source-git-commit: a71b88cd45d3518569a37e416b4601a2928e816d
+source-git-commit: 1e0a4e4b256f47d7c04455990083c4044cd04284
 workflow-type: tm+mt
 source-wordcount: '299'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -102,8 +102,8 @@ ht-degree: 2%
    + 基于帐户的营销{#account-based-marketing}
       + [[!UICONTROL Account Based Marketing] 概述](/help/definitions/account-based-marketing/abm-overview.md)
       + [[!UICONTROL Accounts by Engagement Score]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
-      + [[!UICONTROL Accounts with Leads and Contacts] 报告](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
-      + [[!UICONTROL Touchpoints per Account] 报告](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
+      + [[!UICONTROL Accounts with Leads and Contacts]报告](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
+      + [[!UICONTROL Touchpoints per Account]报告](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
    + 回马朗舞台{#boomerang-stage}
       + [自走式阶段简介](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [设置自转站阶段](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
