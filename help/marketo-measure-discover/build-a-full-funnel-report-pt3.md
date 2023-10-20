@@ -1,6 +1,6 @@
 ---
 title: 发现漏斗报表(Pt.3)
-description: 本视频将介绍漏斗顶部的报表，依次显示Marketo Measure是否进行跟踪、您是否正在生成潜在客户以及您的渠道设置是否正确。
+description: 获取漏斗顶部报表的演练，该演练会显示Marketo Measure是否正在跟踪、您是否正在生成潜在客户以及您的渠道是否设置正确。
 feature-set: Marketo Measure
 feature: Discover, Reporting
 role: User
@@ -9,16 +9,16 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-22T00:00:00Z
 jira: KT-14019
 thumbnail: 3424434.jpeg
-source-git-commit: 10b20c84e967a1b20eab47479634617cd07d6a74
+exl-id: c7d1b47c-2331-47db-af07-a259cab15fad
+source-git-commit: ee8dd3c468dc6b2b73be48740f6f60079590c527
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
-
 # 发现漏斗报表
 
-本视频将介绍漏斗顶部的报表，依次显示Marketo Measure是否进行跟踪、您是否正在生成潜在客户以及您的渠道设置是否正确。
+本视频提供了漏斗顶部报表的演练，该演练会向您显示Marketo Measure是否正在跟踪、您是否正在生成潜在客户以及您的渠道是否正确设置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
