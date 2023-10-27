@@ -1,6 +1,7 @@
 ---
 title: 什么是归因
 description: 本课程提供了归因的定义，比较了单接触和多接触归因方法，并比较了B2C企业和B2B企业之间的归因。
+short-description: 本课程将比较单点接触和多点接触归因方法，并比较B2C企业与B2B企业之间的归因。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -9,9 +10,9 @@ jira: KT-11678
 thumbnail: 3413090.jpeg
 exl-id: fc35f6b0-9491-4438-a9a8-8026472d13b7
 feature: Attribution
-source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
+source-git-commit: 9cdab15d9c976c6160ca367dedc458fb388a2c83
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
