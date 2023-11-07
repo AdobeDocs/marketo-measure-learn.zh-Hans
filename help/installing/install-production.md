@@ -1,6 +1,6 @@
 ---
 title: 安装（生产实例）
-description: 了解如何安装的生产实例 [!DNL Marketo Measure].
+description: 了解如何安装  [!DNL Marketo Measure] 的生产实例。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: Installation
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '22'
-ht-degree: 0%
+ht-degree: 63%
 
 ---
 
 # [!DNL Marketo Measure] 安装（生产实例）
 
-了解如何安装的生产实例 [!DNL Marketo Measure].
+了解如何安装 [!DNL Marketo Measure] 的生产实例。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347185/?learn=on){transcript=true}
