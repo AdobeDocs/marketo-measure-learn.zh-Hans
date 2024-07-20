@@ -1,6 +1,6 @@
 ---
-title: 此 [!DNL Marketo Measure] ROI仪表板
-description: 本课程概述了中可用的可配置功能板 [!DNL Marketo Measure].
+title: ' [!DNL Marketo Measure] ROI仪表板'
+description: 本课程概述了 [!DNL Marketo Measure]中可用的可配置仪表板。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 此 [!DNL Marketo Measure] ROI仪表板
+# [!DNL Marketo Measure] ROI仪表板
 
-本课程概述了中可用的可配置功能板 [!DNL Marketo Measure].
+本课程概述了[!DNL Marketo Measure]中可用的可配置仪表板。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347243/?learn=on){transcript=true}

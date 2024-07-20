@@ -1,6 +1,6 @@
 ---
 title: 创建渠道和子渠道
-description: 本课程介绍如何在中创建和维护渠道和子渠道层次结构和名称 [!DNL Marketo Measure].
+description: 本课程介绍如何在 [!DNL Marketo Measure]中创建和维护渠道和子渠道层次结构和名称。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 创建渠道和子渠道
 
-本课程介绍如何在中创建和维护渠道和子渠道层次结构和名称 [!DNL Marketo Measure].
+本课程介绍如何在[!DNL Marketo Measure]中创建和维护渠道和子渠道层次结构和名称。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347244/?learn=on){transcript=true}

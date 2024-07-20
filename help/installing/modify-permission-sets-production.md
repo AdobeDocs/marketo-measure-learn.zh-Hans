@@ -1,6 +1,6 @@
 ---
 title: 修改权限集（生产实例）
-description: 了解如何在中修改权限集 [!DNL Marketo Measure] （生产实例）。
+description: 了解如何在 [!DNL Marketo Measure] （生产实例）中修改权限集。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 修改权限集（生产实例）
 
-了解如何在中修改权限集 [!DNL Marketo Measure] （生产实例）。
+了解如何在[!DNL Marketo Measure]（生产实例）中修改权限集。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347189/?learn=on){transcript=true}

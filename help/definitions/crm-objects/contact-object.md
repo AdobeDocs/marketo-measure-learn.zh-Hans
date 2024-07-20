@@ -1,6 +1,6 @@
 ---
 title: 联系对象
-description: 查看联系对象与 [!DNL Marketo Measure] 接触点对象和 [!DNL Marketo Measure] 归因接触点对象。
+description: 查看联系对象与 [!DNL Marketo Measure] 接触点对象和 [!DNL Marketo Measure] 归因接触点对象之间关系的细分。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 联系对象
 
-此视频划分了联系对象与 [!DNL Marketo Measure] 接触点对象和 [!DNL Marketo Measure] 归因接触点对象。
+此视频划分了联系对象和[!DNL Marketo Measure]接触点对象以及[!DNL Marketo Measure]归因接触点对象之间的关系。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347231/?learn=on){transcript=true}

@@ -1,7 +1,7 @@
 ---
-user-guide-title: '"[!DNL Marketo Measure] Tutorials”'
-breadcrumb-title: '"[!DNL Marketo Measure] Tutorials”'
-user-guide-description: 了解如何充分利用 [!DNL Adobe Marketo Measure] (以前称为 [!DNL Bizible])。 观看有关安装、入门、基础知识和定义的教程。
+user-guide-title: "[!DNL Marketo Measure]个Tutorials"
+breadcrumb-title: "[!DNL Marketo Measure]个Tutorials"
+user-guide-description: 了解如何充分利用 [!DNL Adobe Marketo Measure] （以前称为 [!DNL Bizible]）。 观看有关安装、入门、基础知识和定义的教程。
 auto-video-transcripts: true
 source-git-commit: ed3135104704d0742337f94c9d6a1c035f0449fe
 workflow-type: tm+mt
@@ -14,12 +14,12 @@ ht-degree: 3%
 # [!DNL Marketo Measure] 教程 {#tutorials}
 
 + [[!DNL Marketo Measure] 教程](overview.md)
-+ Marketo Measure安装 {#install}
++ Marketo Measure安装{#install}
    + [Marketo Measure安装](/help/installing/install-production.md)
    + [修改权限集](/help/installing/modify-permission-sets-production.md)
    + [共享和隐藏报告和仪表板](/help/installing/sharing-reports-production.md)
    + [创建 [!DNL Marketo Measure] 帐户](/help/installing/creating-marketo-measure-account-production.md)
-+ 入门{#onboarding}
++ 载入{#onboarding}
    + 最佳实践{#best-practices}
       + [查看报表设置(Pt.1)](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
       + [查看渠道和集成设置(Pt.2)](/help/onboarding/fundamentals/channel-integration-settings.md)
@@ -33,15 +33,15 @@ ht-degree: 3%
       + [活动接触点](/help/onboarding/fundamentals/activity-touchpoints.md)
       + [抑制、分段和成本](/help/onboarding/fundamentals/suppression-segmentation-cost.md)
    + 营销角色{#marketing-role}
-      + [原因 [!DNL Marketo Measure] 针对CMO和VP](/help/onboarding/marketing-role/cmo-and-vp-why.md)
+      + [CMO和VP为何需要 [!DNL Marketo Measure] ](/help/onboarding/marketing-role/cmo-and-vp-why.md)
       + [使用 [!DNL Marketo Measure] 作为CMO或VP](/help/onboarding/marketing-role/cmo-and-vp-using.md)
-      + [原因 [!DNL Marketo Measure] 面向需求的一代/付费媒体](/help/onboarding/marketing-role/demand-gen-why.md)
+      + [为什么针对需求源/付费媒体 [!DNL Marketo Measure] ](/help/onboarding/marketing-role/demand-gen-why.md)
       + [使用 [!DNL Marketo Measure] 作为需求一代/付费媒体营销人员](/help/onboarding/marketing-role/demand-gen-using.md)
-      + [原因 [!DNL Marketo Measure] 用于内容营销](/help/onboarding/marketing-role/content-marketing-why.md)
+      + [内容营销的Why [!DNL Marketo Measure] ](/help/onboarding/marketing-role/content-marketing-why.md)
       + [使用 [!DNL Marketo Measure] 作为内容营销人员](/help/onboarding/marketing-role/content-marketing-using.md)
-      + [原因 [!DNL Marketo Measure] 用于事件营销](/help/onboarding/marketing-role/events-marketing-why.md)
+      + [为什么针对事件营销进行 [!DNL Marketo Measure] ](/help/onboarding/marketing-role/events-marketing-why.md)
       + [使用 [!DNL Marketo Measure] 作为活动营销人员](/help/onboarding/marketing-role/events-marketing-using.md)
-      + [原因 [!DNL Marketo Measure] 用于电子邮件营销](/help/onboarding/marketing-role/email-marketing-why.md)
+      + [电子邮件营销的Why [!DNL Marketo Measure] ](/help/onboarding/marketing-role/email-marketing-why.md)
       + [使用 [!DNL Marketo Measure] 作为电子邮件营销人员](/help/onboarding/marketing-role/email-marketing-using.md)
    + [!DNL Marketo Measure] 101{#marketo-measure-101}
       + [什么是归因](/help/onboarding/marketo-measure-101/what-is-attribution.md)
@@ -50,11 +50,11 @@ ht-degree: 3%
       + [接触点](/help/onboarding/marketo-measure-101/touchpoints.md)
       + [归因模型](/help/onboarding/marketo-measure-101/attribution-models.md)
    + [!DNL Marketo Measure] 102{#marketo-measure-102}
-      + [此 [!DNL Marketo Measure] ROI仪表板](/help/onboarding/marketo-measure-102/roi-dashboards.md)
+      + [ [!DNL Marketo Measure] ROI仪表板](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Stock Salesforce报表](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [其他Salesforce报告](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
       + [Data Warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
-   + [!DNL Marketo Measure] 和Salesforce{#marketo-measure-salesforce}
+   + [!DNL Marketo Measure]和Salesforce{#marketo-measure-salesforce}
       + [按ID列出的潜在客户报表](/help/onboarding/marketo-measure-salesforce/leads-by-id-report.md)
       + [创建渠道和子渠道](/help/onboarding/marketo-measure-salesforce/creating-channels-subchannels.md)
       + [使用CSV文件设置渠道规则](/help/onboarding/marketo-measure-salesforce/channel-rules-csv.md)
@@ -64,8 +64,8 @@ ht-degree: 3%
    + 基础知识{#fundamentals}
       + [接触点抑制](/help/onboarding/marketo-measure-salesforce/touchpoint-suppression.md)
       + [活动归因](/help/onboarding/fundamentals/activities-attribution.md)
-+ [!DNL Marketo Measure] 发现{#marketo-measure-discover}
-   + [简介 [!DNL Marketo Measure] 发现](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
++ [!DNL Marketo Measure]发现{#marketo-measure-discover}
+   + [ [!DNL Marketo Measure] Discover简介](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
    + [了解概述功能板](/help/marketo-measure-discover/2023-discover-overview-dashboard.md)
    + [发现归因收入](/help/marketo-measure-discover/2023-discover-attributed-revenue.md)
    + [了解ROI仪表板](/help/marketo-measure-discover/2023-discover-roi-dashboard.md)
@@ -87,7 +87,7 @@ ht-degree: 3%
       + [W形模型](/help/definitions/attribution/w-shaped-model.md)
       + [全路径模型](/help/definitions/attribution/full-path-model.md)
    + CRM对象{#crm-objects}
-      + [概述 [!DNL Marketo Measure] 分类](/help/definitions/crm-objects/taxonomy-overview.md)
+      + [ [!DNL Marketo Measure] 分类概述](/help/definitions/crm-objects/taxonomy-overview.md)
       + [CRM对象](/help/definitions/crm-objects/crm-objects.md)
       + [潜在客户对象](/help/definitions/crm-objects/lead-object.md)
       + [联系对象](/help/definitions/crm-objects/contact-object.md)
@@ -96,8 +96,8 @@ ht-degree: 3%
       + [BAT对象](/help/definitions/crm-objects/bat-object.md)
       + [Marketo Measure人员](/help/definitions/crm-objects/marketo-measure-person.md)
    + UTM参数{#utm-parameters}
-      + [如何 [!DNL Marketo Measure] 标记工作](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
-      + [将集成平台与 [!DNL Marketo Measure]](/help/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
+      + [ [!DNL Marketo Measure] 标记的工作方式](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
+      + [将集成平台与 [!DNL Marketo Measure]连接](/help/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
       + [UTM参数剖析](/help/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
       + [UTM最佳实践](/help/definitions/utm-parameters/utm-best-practices.md)
       + [UTM参数自动标记工具](/help/definitions/utm-parameters/utm-parameter-auto-tagging-tools.md)
@@ -105,14 +105,14 @@ ht-degree: 3%
    + 基于帐户的营销{#account-based-marketing}
       + [[!UICONTROL Account Based Marketing] 概述](/help/definitions/account-based-marketing/abm-overview.md)
       + [[!UICONTROL Accounts by Engagement Score]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
-      + [[!UICONTROL Accounts with Leads and Contacts] 报告](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
-      + [[!UICONTROL Touchpoints per Account] 报告](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
-   + 回马朗舞台{#boomerang-stage}
+      + [[!UICONTROL Accounts with Leads and Contacts]报告](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
+      + [[!UICONTROL Touchpoints per Account]报告](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
+   + 回音符阶段{#boomerang-stage}
       + [自走式阶段简介](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [设置自转站阶段](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
-+ 宣讲者会谈 {#evangelist}
++ 宣讲者谈话{#evangelist}
    + [营销属性和量度](/help/evangelist-talks/attribution-and-metrics.md)
    + [营销归因成熟度](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [营销归因和数据孤岛](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
 + Experience League实时录制{#experience-league-live-recordings}
-   + [Marketo Measure的新Discover功能板](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
+   + [Marketo Measure的新发现功能板](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)

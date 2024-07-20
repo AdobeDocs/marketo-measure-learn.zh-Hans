@@ -1,5 +1,5 @@
 ---
-title: 原因 [!DNL Marketo Measure] 面向CMO和VP
+title: 为什么选择 [!DNL Marketo Measure] 作为CMO和VP
 description: 本课程总结了 [!DNL Marketo Measure]的主要功能和对于CMO和其他高级营销主管的价值。
 role: Leader
 level: Beginner
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# 原因 [!DNL Marketo Measure] 面向CMO和VP
+# 为什么选择[!DNL Marketo Measure]作为CMO和VP
 
-本课程总结了 [!DNL Marketo Measure]的主要功能和对于CMO和其他高级营销主管的价值。
+本课程总结了[!DNL Marketo Measure]的主要功能和价值以供CMO和其他高级营销主管使用。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347173/?learn=on){transcript=true}

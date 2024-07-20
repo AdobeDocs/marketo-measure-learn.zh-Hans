@@ -1,6 +1,6 @@
 ---
 title: 使用CSV文件设置渠道规则
-description: 本课程将介绍如何设置 [!DNL Marketo Measure] 使用CSV文件的渠道规则。
+description: 本课程介绍如何使用CSV文件设置 [!DNL Marketo Measure] 渠道规则。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 使用CSV文件设置渠道规则
 
-本课程将介绍如何设置 [!DNL Marketo Measure] 使用CSV文件的渠道规则。
+本课程介绍如何使用CSV文件设置[!DNL Marketo Measure]渠道规则。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347237/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Marketo Measure] 人员"
-description: 了解 [!DNL Marketo Measure] 人员对象以及它如何在Lead和Contact对象之间创建查找。
+title: "[!DNL Marketo Measure]人"
+description: 了解 [!DNL Marketo Measure] Person对象以及它如何在Lead和Contact对象之间创建查找。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: CRM Objects
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Measure] 人员
+# [!DNL Marketo Measure]人
 
-了解 [!DNL Marketo Measure] 人员对象以及它如何在Lead和Contact对象之间创建查找。
+了解[!DNL Marketo Measure] Person对象以及它如何在Lead和Contact对象之间创建查找。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347230/?learn=on){transcript=true}

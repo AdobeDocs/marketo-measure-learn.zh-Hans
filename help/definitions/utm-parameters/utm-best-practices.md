@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # UTM最佳实践
 
-了解 [!DNL Marketo Measure] UTM最佳实践。
+了解[!DNL Marketo Measure] UTM最佳实践。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347203/?learn=on){transcript=true}

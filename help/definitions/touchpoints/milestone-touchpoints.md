@@ -1,6 +1,6 @@
 ---
 title: 里程碑接触点
-description: 了解中的主要里程碑 [!DNL Marketo Measure] 以及它们的创建方式。
+description: 了解 [!DNL Marketo Measure] 中的主要里程碑及其创建方式。
 doc-type: Feature Video
 last-substantial-update: 2023-01-06T00:00:00Z
 jira: KT-11323
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 里程碑接触点
 
-了解中的主要里程碑 [!DNL Marketo Measure] 以及它们的创建方式。
+了解[!DNL Marketo Measure]中的主要里程碑及其创建方式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347215/?learn=on){transcript=true}

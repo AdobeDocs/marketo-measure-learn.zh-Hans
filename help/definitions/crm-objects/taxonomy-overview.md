@@ -1,6 +1,6 @@
 ---
-title: 概述 [!DNL Marketo Measure] 分类
-description: 观看操作方法概述 [!DNL Marketo Measure] 使用各种输入收集和处理数据以提供归因数据。
+title: ' [!DNL Marketo Measure] 分类概述'
+description: 观看 [!DNL Marketo Measure] 如何使用各种输入收集和处理数据以提供归因数据的概述。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 概述 [!DNL Marketo Measure] 分类
+# [!DNL Marketo Measure]分类概述
 
-大致了解如何 [!DNL Marketo Measure] 使用各种输入收集和处理数据以提供归因数据。
+获取[!DNL Marketo Measure]如何使用各种输入收集和处理数据以提供归因数据的概述。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347177/?learn=on){transcript=true}

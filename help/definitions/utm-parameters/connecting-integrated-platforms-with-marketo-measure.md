@@ -1,5 +1,5 @@
 ---
-title: 连接集成平台 [!DNL Marketo Measure]
+title: 将集成平台与 [!DNL Marketo Measure]连接
 description: 了解如何将广告平台连接到您的 [!DNL Marketo Measure] 帐户。
 jira: KT-11237
 thumbnail: 347211.jpeg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 将集成平台与 [!DNL Marketo Measure]
+# 将集成平台与[!DNL Marketo Measure]连接
 
-了解如何将广告平台连接到您的 [!DNL Marketo Measure] 帐户。
+了解如何将广告平台连接到您的[!DNL Marketo Measure]帐户。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347211/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
 title: 映射离线渠道
-description: 本课程介绍将离线渠道映射到 [!DNL Marketo Measure] Salesforce Campaign对象和营销活动类型字段。
+description: 本课程介绍如何使用Salesforce Campaign对象和Campaign类型字段将离线渠道映射到 [!DNL Marketo Measure] 。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 映射离线渠道
 
-本课程介绍将离线渠道映射到 [!DNL Marketo Measure] Salesforce Campaign对象和营销活动类型字段。
+本课程介绍如何使用Salesforce Campaign对象和Campaign类型字段将离线渠道映射到[!DNL Marketo Measure]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347249/?learn=on){transcript=true}

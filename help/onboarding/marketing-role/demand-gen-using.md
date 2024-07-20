@@ -1,6 +1,6 @@
 ---
 title: 使用 [!DNL Marketo Measure] 作为需求一代/付费媒体营销人员
-description: 本课程快速演示了Demand Gen和Paid Media团队可能如何使用 [!DNL Marketo Measure] 工作角色中的角色。
+description: 本课程快速演示了Demand Gen和Paid Media团队如何在其工作角色中使用 [!DNL Marketo Measure] 。
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 使用 [!DNL Marketo Measure] 作为需求一代/付费媒体营销人员
+# 将[!DNL Marketo Measure]用作需求生成/付费媒体营销人员
 
-本课程快速演示了Demand Gen和Paid Media团队可能如何使用 [!DNL Marketo Measure] 工作角色中的角色。
+本课程快速演示了Demand Gen和Paid Media团队如何在其工作角色中使用[!DNL Marketo Measure]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347171/?learn=on){transcript=true}

@@ -1,5 +1,5 @@
 ---
-title: 简介 [!DNL Marketo Measure] 发现
+title: ' [!DNL Marketo Measure] Discover简介'
 description: 观看Discover及其各种展示板的高级概述。 在本课程中，了解多个Discover功能板和图块的常见报告用例。
 jira: KT-11230
 thumbnail: 347206.jpeg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 简介 [!DNL Marketo Measure] [!UICONTROL Discover]
+# [!DNL Marketo Measure]简介[!UICONTROL Discover]
 
-观看高级概述 [!UICONTROL Discover] 以及它的各种板块。 在本课程中，了解多个Discover功能板和图块的常见报告用例。
+观看[!UICONTROL Discover]及其各个讨论区的高级概述。 在本课程中，了解多个Discover功能板和图块的常见报告用例。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347206/?learn=on){transcript=true}

@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # 活动归因
 
-本课程涵盖 [!UICONTROL Activities Attribution]. 此功能允许您通过任务或事件记录从Salesforce中的活动对象创建接触点。
+本课程涵盖[!UICONTROL Activities Attribution]。 此功能允许您通过任务或事件记录从Salesforce中的活动对象创建接触点。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347192/?learn=on){transcript=true}

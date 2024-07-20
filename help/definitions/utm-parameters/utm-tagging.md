@@ -1,6 +1,6 @@
 ---
 title: UTM标记
-description: 观看教程，了解什么是UTM及其使用方式 [!DNL Marketo Measure].
+description: 观看教程，了解什么是UTM以及它们如何与 [!DNL Marketo Measure]一起使用。
 jira: KT-11234
 thumbnail: 347204.jpeg
 exl-id: 447ec263-6585-409f-8300-d92fcc6289d6
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # UTM标记
 
-观看教程，了解什么是UTM及其使用方式 [!DNL Marketo Measure].
+观看教程，了解什么是UTM以及它们如何与[!DNL Marketo Measure]一起使用。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347204/?learn=on){transcript=true}

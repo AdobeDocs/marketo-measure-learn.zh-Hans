@@ -1,6 +1,6 @@
 ---
 title: 机会对象
-description: 观看以下项目之间的关系划分： [!DNL Marketo Measure] 和Opportunity对象。
+description: 观看 [!DNL Marketo Measure] 与Opportunity对象之间关系的细分。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 机会对象
 
-观看以下项目之间的关系划分： [!DNL Marketo Measure] 和Opportunity对象。
+观看[!DNL Marketo Measure]与Opportunity对象之间关系的细分。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347223/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
 title: CRM对象
-description: 观看标准CRM对象和之间的关系的细分 [!DNL Marketo Measure] 自定义对象和字段。
+description: 观看标准CRM对象与 [!DNL Marketo Measure] 自定义对象和字段之间关系的细分。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # CRM对象
 
-观看标准CRM对象和之间的关系的细分 [!DNL Marketo Measure] 自定义对象和字段。
+观看标准CRM对象与[!DNL Marketo Measure]自定义对象和字段之间关系的细分。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347218/?learn=on){transcript=true}

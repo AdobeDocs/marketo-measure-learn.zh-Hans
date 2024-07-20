@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Marketo Measure接触点对象
 
-了解 [!DNL Marketo Measure] 接触点。
+了解[!DNL Marketo Measure]接触点。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347219/?learn=on){transcript=true}

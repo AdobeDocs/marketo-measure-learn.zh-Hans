@@ -1,6 +1,6 @@
 ---
 title: 促销活动对象字段
-description: 本课程介绍Salesforce CRM Campaign对象字段，这些字段具有 [!DNL Marketo Measure] 使用将促销活动和促销活动成员映射到营销渠道。 了解这些Campaign对象的功能非常重要，因为您可通过以下方式管理和映射离线渠道： [!DNL Marketo Measure].
+description: 本课程介绍 [!DNL Marketo Measure] 用于将营销活动和营销活动成员映射到营销渠道的Salesforce CRM Campaign对象字段。 了解这些促销活动对象的作用非常重要，因为您需在 [!DNL Marketo Measure]中管理和映射离线渠道。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 促销活动对象字段
 
-本课程介绍Salesforce CRM Campaign对象字段，这些字段具有 [!DNL Marketo Measure] 使用将促销活动和促销活动成员映射到营销渠道。 了解这些Campaign对象的功能非常重要，因为您可通过以下方式管理和映射离线渠道： [!DNL Marketo Measure].
+本课程涵盖[!DNL Marketo Measure]用于将营销活动和营销活动成员映射到营销渠道的Salesforce CRM Campaign对象字段。 了解这些促销活动对象的功能非常重要，因为您需在[!DNL Marketo Measure]中管理和映射离线渠道。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347238/?learn=on){transcript=true}

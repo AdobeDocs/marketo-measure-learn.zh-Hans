@@ -1,6 +1,6 @@
 ---
 title: 使用 [!DNL Marketo Measure] 作为内容营销人员
-description: 本课程快速演示了内容营销人员可能如何使用 [!DNL Marketo Measure] 工作角色中的角色。
+description: 本课程快速演示内容营销人员如何在工作角色中使用 [!DNL Marketo Measure] 。
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 使用 [!DNL Marketo Measure] 作为内容营销人员
+# 使用[!DNL Marketo Measure]作为内容营销人员
 
-本课程快速演示了内容营销人员可能如何使用 [!DNL Marketo Measure] 工作角色中的角色。
+本课程快速演示内容营销人员如何在工作角色中使用[!DNL Marketo Measure]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347168/?learn=on){transcript=true}

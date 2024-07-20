@@ -1,6 +1,6 @@
 ---
-title: 原因 [!DNL Marketo Measure] 用于内容营销
-description: 本课程总结了 [!DNL Marketo Measure]的主要功能以及对于内容营销团队的价值。
+title: 内容营销的Why [!DNL Marketo Measure]
+description: 本课程总结了内容营销团队的 [!DNL Marketo Measure]的主要功能和价值。
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -12,13 +12,13 @@ feature: Fundamentals
 hidefromtoc: true
 source-git-commit: 0b8e2531dec2557bf306f5af6305fe6ffb9c6c37
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
 
-# 原因 [!DNL Marketo Measure] 用于内容营销
+# 为什么选择[!DNL Marketo Measure]进行内容营销
 
-本课程总结了 [!DNL Marketo Measure]的主要功能以及对于内容营销团队的价值。
+本课程总结了[!DNL Marketo Measure]的主要功能和内容营销团队的价值。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347176/?learn=on){transcript=true}

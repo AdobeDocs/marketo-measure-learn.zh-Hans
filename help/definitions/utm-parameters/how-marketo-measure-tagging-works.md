@@ -1,6 +1,6 @@
 ---
 title: 标记的工作方式
-description: 了解如何 [!DNL Marketo Measure] 标记的工作方式以及使用集成标记平台的相关信息。
+description: 了解 [!DNL Marketo Measure] 标记的工作方式以及如何使用集成的标记平台。
 jira: KT-11233
 thumbnail: 347200.jpeg
 exl-id: 6c8c4c89-d4c2-4ed2-bed5-de06da91dc2b
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 如何 [!DNL Marketo Measure] 标记功能
+# [!DNL Marketo Measure]标记的工作方式
 
-了解如何 [!DNL Marketo Measure] 标记的工作方式以及使用集成标记平台的相关信息。
+了解[!DNL Marketo Measure]标记的工作方式以及如何使用集成的标记平台。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347200/?learn=on){transcript=true}

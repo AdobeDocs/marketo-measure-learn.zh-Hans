@@ -1,6 +1,6 @@
 ---
 title: 潜在客户对象
-description: 查看潜在客户对象与 [!DNL Marketo Measure] 接触点对象。
+description: 查看潜在客户对象与 [!DNL Marketo Measure] 接触点对象之间关系的细分。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 潜在客户对象
 
-查看潜在客户对象与 [!DNL Marketo Measure] 接触点对象。
+查看潜在客户对象和[!DNL Marketo Measure]接触点对象之间关系的细分。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347228/?learn=on){transcript=true}

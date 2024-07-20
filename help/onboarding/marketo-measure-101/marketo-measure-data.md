@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Marketo Measure] 数据"
-description: 本课程概述了 [!DNL Marketo Measure] 数据源包括 [!DNL Marketo Measure] JavaScript、API集成、UTM参数、CRM数据和手动输入的数据。
+title: "[!DNL Marketo Measure]数据"
+description: 本课程概述了 [!DNL Marketo Measure] 数据源，包括 [!DNL Marketo Measure] JavaScript、API集成、UTM参数、CRM数据和手动输入的数据。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: Reporting
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '46'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Measure] 数据
+# [!DNL Marketo Measure]数据
 
-本课程概述了 [!DNL Marketo Measure] 数据源包括 [!DNL Marketo Measure] JavaScript、API集成、UTM参数、CRM数据和手动输入的数据。
+本课程概述了[!DNL Marketo Measure]数据源，包括[!DNL Marketo Measure]个JavaScript、API集成、UTM参数、CRM数据和手动输入的数据。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347234/?learn=on){transcript=true}

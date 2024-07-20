@@ -1,6 +1,6 @@
 ---
 title: 同步离线营销活动
-description: 本课程介绍如何将Salesforce CRM营销活动与同步 [!DNL Marketo Measure]  — 单个或批量。
+description: 本课程介绍如何单独或批量将Salesforce CRM营销活动与 [!DNL Marketo Measure] 同步。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 同步离线营销活动
 
-本课程介绍如何将Salesforce CRM营销活动与同步 [!DNL Marketo Measure]  — 单个或批量。
+本课程介绍如何单独或批量将Salesforce CRM Campaigns与[!DNL Marketo Measure]同步。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347250/?learn=on){transcript=true}

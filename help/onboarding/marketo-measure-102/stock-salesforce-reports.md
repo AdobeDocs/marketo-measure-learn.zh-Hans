@@ -1,6 +1,6 @@
 ---
 title: Stock Salesforce报表
-description: 本课程涵盖预建的标准Salesforce CRM报表和随附的数据对象。 [!DNL Marketo Measure].
+description: 本课程介绍 [!DNL Marketo Measure]中包含的标准预建Salesforce CRM报告和数据对象。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Stock Salesforce报表
 
-本课程涵盖预建的标准Salesforce CRM报表和随附的数据对象。 [!DNL Marketo Measure].
+本课程介绍[!DNL Marketo Measure]中包含的标准预建Salesforce CRM报告和数据对象。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347239/?learn=on){transcript=true}

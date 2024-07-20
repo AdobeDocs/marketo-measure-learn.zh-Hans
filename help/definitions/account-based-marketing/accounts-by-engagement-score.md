@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # [!UICONTROL Accounts by Engagement Score]
 
-全面概述 [!UICONTROL Account by Engagement Score].  本教程将讨论进入此得分的指标以及与其关联的报表。
+[!UICONTROL Account by Engagement Score]的高级概述。  本教程将讨论进入此得分的指标以及与其关联的报表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347248/?learn=on){transcript=true}

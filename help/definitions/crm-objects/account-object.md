@@ -1,6 +1,6 @@
 ---
 title: 帐户对象
-description: 了解以下各项之间的关系 [!DNL Marketo Measure] 和帐户对象。
+description: 了解 [!DNL Marketo Measure] 与帐户对象之间的关系。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # 帐户对象
 
-了解以下各项之间的关系 [!DNL Marketo Measure] 和帐户对象。
+了解[!DNL Marketo Measure]与帐户对象之间的关系。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347222/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
 title: 创建 [!DNL Marketo Measure] 帐户
-description: 创建 [!DNL Marketo Measure] （以前称为Bizible）帐户并连接广告平台（生产实例）。
+description: 创建 [!DNL Marketo Measure] （以前为Bizible）帐户并连接广告平台（生产实例）。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 创建 [!DNL Marketo Measure] 帐户
+# 创建[!DNL Marketo Measure]帐户
 
-了解如何创建 [!DNL Marketo Measure] 帐户和以连接广告平台（生产实例）。
+了解如何创建[!DNL Marketo Measure]帐户以及连接广告平台（生产实例）。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347196/?learn=on){transcript=true}

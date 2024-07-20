@@ -1,6 +1,6 @@
 ---
 title: 归因模型
-description: 本课程将定义归因模型，并解释中包括的不同模型 [!DNL Marketo Measure]、以及何时使用各个。  描述了基于规则的标准模型、自定义模型和AI/ML推荐。
+description: 本课程将定义归因模型，解释 [!DNL Marketo Measure]中包含的不同模型以及何时使用每个模型。  描述了基于规则的标准模型、自定义模型和AI/ML推荐。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 归因模型
 
-本课程将定义归因模型，并解释中包括的不同模型 [!DNL Marketo Measure]、以及何时使用各个。  描述了基于规则的标准模型、自定义模型和AI/ML推荐。
+本课程将定义归因模型，解释[!DNL Marketo Measure]中包含的不同模型以及何时使用每个模型。  描述了基于规则的标准模型、自定义模型和AI/ML推荐。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347240/?learn=on){transcript=true}
