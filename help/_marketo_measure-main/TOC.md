@@ -3,10 +3,10 @@ user-guide-title: "[!DNL Marketo Measure]个Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure]个Tutorials"
 user-guide-description: 了解如何充分利用 [!DNL Adobe Marketo Measure] （以前称为 [!DNL Bizible]）。 观看有关安装、入门、基础知识和定义的教程。
 auto-video-transcripts: true
-source-git-commit: ed3135104704d0742337f94c9d6a1c035f0449fe
+source-git-commit: 36abe0beb0b228bf90cf22fbb0ae14c7a6277a21
 workflow-type: tm+mt
-source-wordcount: '337'
-ht-degree: 3%
+source-wordcount: '347'
+ht-degree: 4%
 
 ---
 
@@ -43,13 +43,13 @@ ht-degree: 3%
       + [使用 [!DNL Marketo Measure] 作为活动营销人员](/help/onboarding/marketing-role/events-marketing-using.md)
       + [电子邮件营销的Why [!DNL Marketo Measure] ](/help/onboarding/marketing-role/email-marketing-why.md)
       + [使用 [!DNL Marketo Measure] 作为电子邮件营销人员](/help/onboarding/marketing-role/email-marketing-using.md)
-   + [!DNL Marketo Measure] 101{#marketo-measure-101}
+   + [!DNL Marketo Measure] 101 {#marketo-measure-101}
       + [什么是归因](/help/onboarding/marketo-measure-101/what-is-attribution.md)
       + [什么是 [!DNL Marketo Measure]](/help/onboarding/marketo-measure-101/what-is-marketo-measure.md)
       + [Marketo Measure数据](/help/onboarding/marketo-measure-101/marketo-measure-data.md)
       + [接触点](/help/onboarding/marketo-measure-101/touchpoints.md)
       + [归因模型](/help/onboarding/marketo-measure-101/attribution-models.md)
-   + [!DNL Marketo Measure] 102{#marketo-measure-102}
+   + [!DNL Marketo Measure] 102 {#marketo-measure-102}
       + [ [!DNL Marketo Measure] ROI仪表板](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Stock Salesforce报表](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [其他Salesforce报告](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
@@ -110,9 +110,12 @@ ht-degree: 3%
    + 回音符阶段{#boomerang-stage}
       + [自走式阶段简介](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [设置自转站阶段](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
++ Marketo Measure Ultimate {#marketo-measure-ultimate}
+   + [Marketo Measure Ultimate概述](/help/marketo-measure-ultimate/overview.md)
+   + [Attribution AI概述](/help/marketo-measure-ultimate/attribution-ai-overview.md)
 + 宣讲者谈话{#evangelist}
    + [营销属性和量度](/help/evangelist-talks/attribution-and-metrics.md)
    + [营销归因成熟度](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [营销归因和数据孤岛](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
-+ Experience League实时录制{#experience-league-live-recordings}
++ Experience League Live 录像{#experience-league-live-recordings}
    + [Marketo Measure的新发现功能板](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
