@@ -3,10 +3,10 @@ user-guide-title: "[!DNL Marketo Measure]个Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure]个Tutorials"
 user-guide-description: 了解如何充分利用 [!DNL Adobe Marketo Measure] （以前称为 [!DNL Bizible]）。 观看有关安装、入门、基础知识和定义的教程。
 auto-video-transcripts: true
-source-git-commit: 36abe0beb0b228bf90cf22fbb0ae14c7a6277a21
+source-git-commit: 22c78a311d3a9509fb85f6b203c2154c6124c259
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 4%
+source-wordcount: '350'
+ht-degree: 6%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 4%
 # [!DNL Marketo Measure] 教程 {#tutorials}
 
 + [[!DNL Marketo Measure] 教程](overview.md)
++ [Marketo Measure概述](/help/marketo-measure-overview.md)
 + Marketo Measure安装{#install}
    + [Marketo Measure安装](/help/installing/install-production.md)
    + [修改权限集](/help/installing/modify-permission-sets-production.md)
@@ -52,7 +53,7 @@ ht-degree: 4%
    + [!DNL Marketo Measure] 102 {#marketo-measure-102}
       + [ [!DNL Marketo Measure] ROI仪表板](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Stock Salesforce报表](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
-      + [其他Salesforce报告](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
+      + [其他Salesforce报表](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
       + [Data Warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
    + [!DNL Marketo Measure]和Salesforce{#marketo-measure-salesforce}
       + [按ID列出的潜在客户报表](/help/onboarding/marketo-measure-salesforce/leads-by-id-report.md)
