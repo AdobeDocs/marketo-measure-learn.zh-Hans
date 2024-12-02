@@ -1,6 +1,6 @@
 ---
-user-guide-title: "[!DNL Marketo Measure]个Tutorials"
-breadcrumb-title: "[!DNL Marketo Measure]个Tutorials"
+user-guide-title: '[!DNL Marketo Measure] 教程'
+breadcrumb-title: '[!DNL Marketo Measure] 教程'
 user-guide-description: 了解如何充分利用 [!DNL Adobe Marketo Measure] （以前称为 [!DNL Bizible]）。 观看有关安装、入门、基础知识和定义的教程。
 auto-video-transcripts: true
 source-git-commit: 22c78a311d3a9509fb85f6b203c2154c6124c259
