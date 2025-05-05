@@ -119,4 +119,4 @@ ht-degree: 6%
    + [营销归因成熟度](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [营销归因和数据孤岛](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
 + Experience League Live 录像{#experience-league-live-recordings}
-   + [Marketo Measure的新发现功能板](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
+   + [Marketo Measure的新发现功能板](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
