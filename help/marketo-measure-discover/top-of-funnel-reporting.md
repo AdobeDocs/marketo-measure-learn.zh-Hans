@@ -21,4 +21,4 @@ ht-degree: 0%
 
 本视频将介绍漏斗顶部的报表，依次显示Marketo Measure是否进行跟踪、您是否正在生成潜在客户以及您的渠道设置是否正确。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441790/?learn=on&captions=chi_hans){transcript=true}

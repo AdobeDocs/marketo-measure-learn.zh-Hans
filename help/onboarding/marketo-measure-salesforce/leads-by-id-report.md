@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本课程介绍Salesforce CRM中的“按ID促销”报表
 
->[!VIDEO](https://video.tv.adobe.com/v/347182/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421926/?learn=on&captions=chi_hans){transcript=true}

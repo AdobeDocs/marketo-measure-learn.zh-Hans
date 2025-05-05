@@ -18,4 +18,4 @@ ht-degree: 0%
 
 了解归因以及它有价值的原因。
 
->[!VIDEO](https://video.tv.adobe.com/v/347233/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421792/?learn=on&captions=chi_hans){transcript=true}

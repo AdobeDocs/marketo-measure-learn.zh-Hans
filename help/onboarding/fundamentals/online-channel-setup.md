@@ -21,4 +21,4 @@ ht-degree: 0%
 
 了解在线渠道、创建渠道和在线渠道工作表。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424422/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454162/?learn=on&captions=chi_hans){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 观看[!DNL Marketo Measure]与Opportunity对象之间关系的细分。
 
->[!VIDEO](https://video.tv.adobe.com/v/347223/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421952/?learn=on&captions=chi_hans){transcript=true}

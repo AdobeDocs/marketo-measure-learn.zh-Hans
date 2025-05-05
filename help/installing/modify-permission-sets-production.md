@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何在[!DNL Marketo Measure]（生产实例）中修改权限集。
 
->[!VIDEO](https://video.tv.adobe.com/v/347189/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421329/?learn=on&captions=chi_hans){transcript=true}

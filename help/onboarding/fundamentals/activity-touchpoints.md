@@ -21,4 +21,4 @@ ht-degree: 0%
 
 审查Marketo Measure中的活动设置。 这会审核Marketo Engage和CRM活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424420/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453223/?learn=on&captions=chi_hans){transcript=true}

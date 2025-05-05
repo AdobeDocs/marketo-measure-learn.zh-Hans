@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本课程介绍如何在[!DNL Marketo Measure]中创建和维护渠道和子渠道层次结构和名称。
 
->[!VIDEO](https://video.tv.adobe.com/v/347244/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421395/?learn=on&captions=chi_hans){transcript=true}

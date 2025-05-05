@@ -21,4 +21,4 @@ ht-degree: 0%
 
 此报表侧重于营销漏斗的顶部到中部。 构建报告后，您将能够看到哪些渠道产生的机会最多，因此您可以依次投资于这些营销渠道。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424433/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443750/?learn=on&captions=chi_hans)

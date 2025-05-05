@@ -18,4 +18,4 @@ ht-degree: 0%
 
 了解创建数字接触点的一种方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/347210/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421810/?learn=on&captions=chi_hans){transcript=true}

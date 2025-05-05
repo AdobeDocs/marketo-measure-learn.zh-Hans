@@ -20,4 +20,4 @@ ht-degree: 13%
 
 了解Adobe的Attribution AI如何通过复杂的AI/ML建模增强B2B营销测量，提供精确的归因洞察和消除偏差以实现准确分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433052/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447231/?learn=on&captions=chi_hans)

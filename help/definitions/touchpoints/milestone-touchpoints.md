@@ -18,4 +18,4 @@ ht-degree: 0%
 
 了解[!DNL Marketo Measure]中的主要里程碑及其创建方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/347215/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421804/?learn=on&captions=chi_hans){transcript=true}

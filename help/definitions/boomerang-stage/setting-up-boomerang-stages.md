@@ -16,4 +16,4 @@ ht-degree: 0%
 
 观看“回旋”系列课程的第二节课。 请先上第一课，然后再看本课。 此讨论如何在[!DNL Marketo Measure]中设置[!UICONTROL Boomerang Stages]。
 
->[!VIDEO](https://video.tv.adobe.com/v/347225/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431590/?learn=on&captions=chi_hans){transcript=true}

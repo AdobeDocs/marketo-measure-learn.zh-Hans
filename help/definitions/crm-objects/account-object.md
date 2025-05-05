@@ -19,4 +19,4 @@ ht-degree: 0%
 
 了解[!DNL Marketo Measure]与帐户对象之间的关系。
 
->[!VIDEO](https://video.tv.adobe.com/v/347222/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436090/?learn=on&captions=chi_hans){transcript=true}

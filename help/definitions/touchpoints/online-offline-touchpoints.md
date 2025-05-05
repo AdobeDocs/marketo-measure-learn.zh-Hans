@@ -18,4 +18,4 @@ ht-degree: 0%
 
 了解在线接触点和离线接触点之间的区别及其创建方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/347212/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421798/?learn=on&captions=chi_hans){transcript=true}

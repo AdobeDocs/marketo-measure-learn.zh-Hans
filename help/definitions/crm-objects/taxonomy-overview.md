@@ -20,4 +20,4 @@ ht-degree: 0%
 
 获取[!DNL Marketo Measure]如何使用各种输入收集和处理数据以提供归因数据的概述。
 
->[!VIDEO](https://video.tv.adobe.com/v/347177/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421341/?learn=on&captions=chi_hans){transcript=true}

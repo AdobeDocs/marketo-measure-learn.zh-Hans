@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Marketo Measure中的渠道和集成设置概述。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424430/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452381/?learn=on&captions=chi_hans){transcript=true}

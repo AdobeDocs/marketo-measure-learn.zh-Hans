@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本课程概述了[!DNL Marketo Measure]中可用的可配置仪表板。
 
->[!VIDEO](https://video.tv.adobe.com/v/347243/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421989/?learn=on&captions=chi_hans){transcript=true}

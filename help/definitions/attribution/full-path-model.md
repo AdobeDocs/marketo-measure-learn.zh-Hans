@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本视频深入说明了完整路径模型。
 
->[!VIDEO](https://video.tv.adobe.com/v/347232/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421347/?learn=on&captions=chi_hans){transcript=true}

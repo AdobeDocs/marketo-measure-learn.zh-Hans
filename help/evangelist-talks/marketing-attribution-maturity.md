@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Marketo MeasureAdobe解决方案顾问Andy Schneider和Marketo宣传专员AdobeIan Michels讨论了他们与客户的营销归因对话和体验。 此对话讨论MOP团队如何从无归因报告过渡到财富100强企业如何使用Marketo Measure。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426840/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456519/?learn=on&captions=chi_hans)

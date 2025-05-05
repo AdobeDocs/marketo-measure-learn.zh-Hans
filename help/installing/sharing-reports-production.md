@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本课程介绍如何查看和共享报表和功能板。
 
->[!VIDEO](https://video.tv.adobe.com/v/347184/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431541/?learn=on&captions=chi_hans){transcript=true}

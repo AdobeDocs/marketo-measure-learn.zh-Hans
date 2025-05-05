@@ -18,4 +18,4 @@ ht-degree: 0%
 
 获取接触点各种组件的划分及其定义方式。 此示例同时中断了BT和BAT的组件。
 
->[!VIDEO](https://video.tv.adobe.com/v/347213/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437622/?learn=on&captions=chi_hans){transcript=true}

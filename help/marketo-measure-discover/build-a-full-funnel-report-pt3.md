@@ -21,4 +21,4 @@ ht-degree: 0%
 
 在此报告中，我们查看了“完整漏斗”报告。 此发现报告将从头到尾跟踪参与渠道的情况，然后将机会和/或收入归因于这些渠道。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424432/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443761/?learn=on&captions=chi_hans){transcript=true}

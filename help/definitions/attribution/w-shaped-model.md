@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本视频深入说明了W形模型。
 
->[!VIDEO](https://video.tv.adobe.com/v/347209/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421353/?learn=on&captions=chi_hans){transcript=true}

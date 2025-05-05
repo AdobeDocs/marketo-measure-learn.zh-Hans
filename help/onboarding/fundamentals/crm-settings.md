@@ -21,4 +21,4 @@ ht-degree: 0%
 
 审查Marketo Measure中的CRM设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424429/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451748/?learn=on&captions=chi_hans){transcript=true}

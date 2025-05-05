@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本课程快速演示了电子邮件营销人员如何在其工作角色中使用[!DNL Marketo Measure]。
 
->[!VIDEO](https://video.tv.adobe.com/v/347170/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421971/?learn=on&captions=chi_hans){transcript=true}

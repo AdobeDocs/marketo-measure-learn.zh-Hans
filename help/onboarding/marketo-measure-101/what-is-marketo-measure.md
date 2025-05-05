@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本课程简要介绍Marketo Measure的功能及其原因。
 
->[!VIDEO](https://video.tv.adobe.com/v/347236/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421958/?learn=on&captions=chi_hans){transcript=true}

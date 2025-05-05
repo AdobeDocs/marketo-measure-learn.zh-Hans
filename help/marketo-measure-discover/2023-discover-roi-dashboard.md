@@ -21,4 +21,4 @@ ht-degree: 0%
 
 ROI仪表板为营销人员提供了跨渠道、子渠道和营销活动的投资回报的精细视图。 它仔细地划分成本和收入模式，同时重点列出每个商机的成本、交易和机会等指标，以确保全面了解营销归因。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425023/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449474/?learn=on&captions=chi_hans){transcript=true}

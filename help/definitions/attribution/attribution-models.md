@@ -18,4 +18,4 @@ ht-degree: 0%
 
 在[!DNL Marketo Measure]中获取现成的归因模型概览。 了解单次接触模型与多次接触模型之间的区别。
 
->[!VIDEO](https://video.tv.adobe.com/v/347221/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421786/?learn=on&captions=chi_hans){transcript=true}

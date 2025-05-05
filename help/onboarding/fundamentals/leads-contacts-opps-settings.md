@@ -21,4 +21,4 @@ ht-degree: 0%
 
 审查CRM设置潜在客户、联系人和机会。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424425/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453729/?learn=on&captions=chi_hans){transcript=true}

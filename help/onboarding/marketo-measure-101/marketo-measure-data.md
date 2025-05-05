@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本课程概述了[!DNL Marketo Measure]数据源，包括[!DNL Marketo Measure]个JavaScript、API集成、UTM参数、CRM数据和手动输入的数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/347234/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421946/?learn=on&captions=chi_hans){transcript=true}

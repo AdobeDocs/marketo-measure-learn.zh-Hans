@@ -20,4 +20,4 @@ ht-degree: 0%
 
 本课程介绍如何使用CSV文件设置[!DNL Marketo Measure]渠道规则。
 
->[!VIDEO](https://video.tv.adobe.com/v/347237/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421389/?learn=on&captions=chi_hans){transcript=true}

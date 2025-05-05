@@ -21,4 +21,4 @@ ht-degree: 0%
 
 收入概述仪表板提供从CRM派生的总收入的分析，从而揭示营销策略的角色。 它概述了营销如何影响您的整体收入以及如何促进交易的成功完成。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425025/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446363/?learn=on&captions=chi_hans){transcript=true}

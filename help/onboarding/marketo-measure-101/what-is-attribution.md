@@ -21,4 +21,4 @@ ht-degree: 89%
 
 本课程提供归因的定义、单触点和多触点归因方法的比较，以及 B2C 和 B2B 业务之间的归因比较。
 
->[!VIDEO](https://video.tv.adobe.com/v/3413090/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421965/?learn=on&captions=chi_hans){transcript=true}
