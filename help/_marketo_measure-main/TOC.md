@@ -34,15 +34,15 @@ ht-degree: 6%
       + [活动接触点](/help/onboarding/fundamentals/activity-touchpoints.md)
       + [抑制、分段和成本](/help/onboarding/fundamentals/suppression-segmentation-cost.md)
    + 营销角色 {#marketing-role}
-      + [CMO和VP为何需要 [!DNL Marketo Measure] ](/help/onboarding/marketing-role/cmo-and-vp-why.md)
+      + [CMO和VP为何需要 [!DNL Marketo Measure] &#x200B;](/help/onboarding/marketing-role/cmo-and-vp-why.md)
       + [使用 [!DNL Marketo Measure] 作为CMO或VP](/help/onboarding/marketing-role/cmo-and-vp-using.md)
-      + [为什么针对需求源/付费媒体 [!DNL Marketo Measure] ](/help/onboarding/marketing-role/demand-gen-why.md)
+      + [为什么针对需求源/付费媒体 [!DNL Marketo Measure] &#x200B;](/help/onboarding/marketing-role/demand-gen-why.md)
       + [使用 [!DNL Marketo Measure] 作为需求一代/付费媒体营销人员](/help/onboarding/marketing-role/demand-gen-using.md)
-      + [内容营销的Why [!DNL Marketo Measure] ](/help/onboarding/marketing-role/content-marketing-why.md)
+      + [内容营销的Why [!DNL Marketo Measure] &#x200B;](/help/onboarding/marketing-role/content-marketing-why.md)
       + [使用 [!DNL Marketo Measure] 作为内容营销人员](/help/onboarding/marketing-role/content-marketing-using.md)
-      + [为什么针对事件营销进行 [!DNL Marketo Measure] ](/help/onboarding/marketing-role/events-marketing-why.md)
+      + [为什么针对事件营销进行 [!DNL Marketo Measure] &#x200B;](/help/onboarding/marketing-role/events-marketing-why.md)
       + [使用 [!DNL Marketo Measure] 作为活动营销人员](/help/onboarding/marketing-role/events-marketing-using.md)
-      + [电子邮件营销的Why [!DNL Marketo Measure] ](/help/onboarding/marketing-role/email-marketing-why.md)
+      + [电子邮件营销的Why [!DNL Marketo Measure] &#x200B;](/help/onboarding/marketing-role/email-marketing-why.md)
       + [使用 [!DNL Marketo Measure] 作为电子邮件营销人员](/help/onboarding/marketing-role/email-marketing-using.md)
    + [!DNL Marketo Measure] 101 {#marketo-measure-101}
       + [什么是归因](/help/onboarding/marketo-measure-101/what-is-attribution.md)
@@ -51,7 +51,7 @@ ht-degree: 6%
       + [接触点](/help/onboarding/marketo-measure-101/touchpoints.md)
       + [归因模型](/help/onboarding/marketo-measure-101/attribution-models.md)
    + [!DNL Marketo Measure] 102 {#marketo-measure-102}
-      + [ [!DNL Marketo Measure] ROI仪表板](/help/onboarding/marketo-measure-102/roi-dashboards.md)
+      + [&#x200B; [!DNL Marketo Measure] ROI仪表板](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Stock Salesforce报表](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [其他Salesforce报表](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
       + [Data Warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
@@ -66,7 +66,7 @@ ht-degree: 6%
       + [接触点抑制](/help/onboarding/marketo-measure-salesforce/touchpoint-suppression.md)
       + [活动归因](/help/onboarding/fundamentals/activities-attribution.md)
 + [!DNL Marketo Measure]发现 {#marketo-measure-discover}
-   + [ [!DNL Marketo Measure] Discover简介](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
+   + [&#x200B; [!DNL Marketo Measure] Discover简介](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
    + [了解概述功能板](/help/marketo-measure-discover/2023-discover-overview-dashboard.md)
    + [发现归因收入](/help/marketo-measure-discover/2023-discover-attributed-revenue.md)
    + [了解ROI仪表板](/help/marketo-measure-discover/2023-discover-roi-dashboard.md)
@@ -88,7 +88,7 @@ ht-degree: 6%
       + [W形模型](/help/definitions/attribution/w-shaped-model.md)
       + [全路径模型](/help/definitions/attribution/full-path-model.md)
    + CRM对象 {#crm-objects}
-      + [ [!DNL Marketo Measure] 分类概述](/help/definitions/crm-objects/taxonomy-overview.md)
+      + [&#x200B; [!DNL Marketo Measure] 分类概述](/help/definitions/crm-objects/taxonomy-overview.md)
       + [CRM对象](/help/definitions/crm-objects/crm-objects.md)
       + [潜在客户对象](/help/definitions/crm-objects/lead-object.md)
       + [联系对象](/help/definitions/crm-objects/contact-object.md)
@@ -97,7 +97,7 @@ ht-degree: 6%
       + [BAT对象](/help/definitions/crm-objects/bat-object.md)
       + [Marketo Measure人员](/help/definitions/crm-objects/marketo-measure-person.md)
    + UTM参数 {#utm-parameters}
-      + [ [!DNL Marketo Measure] 标记的工作方式](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
+      + [&#x200B; [!DNL Marketo Measure] 标记的工作方式](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
       + [将集成平台与 [!DNL Marketo Measure]连接](/help/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
       + [UTM参数剖析](/help/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
       + [UTM最佳实践](/help/definitions/utm-parameters/utm-best-practices.md)
