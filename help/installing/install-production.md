@@ -20,4 +20,4 @@ ht-degree: 35%
 
 了解如何安装 [!DNL Marketo Measure] 的生产实例。
 
->[!VIDEO](https://video.tv.adobe.com/v/347185/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421816/?captions=chi_hans&learn=on){transcript=true}
