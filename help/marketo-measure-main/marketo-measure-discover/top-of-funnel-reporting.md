@@ -21,4 +21,4 @@ ht-degree: 0%
 
 本视频将介绍funnel报表的顶部，依次向您显示Marketo Measure是否进行跟踪、您是否正在生成潜在客户以及您的渠道设置是否正确。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441790/?captions=chi_hans&learn=on){transcript=true}

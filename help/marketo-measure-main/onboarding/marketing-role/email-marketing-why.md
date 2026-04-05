@@ -21,4 +21,4 @@ ht-degree: 0%
 
 本课程总结了面向电子邮件营销人员的[!DNL Marketo Measure]的主要功能和价值。
 
->[!VIDEO](https://video.tv.adobe.com/v/347167/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421977/?captions=chi_hans&learn=on){transcript=true}
