@@ -26,6 +26,6 @@ ht-degree: 6%
 
 ## Experience League 直播活动
 
-* **[Marketo Measure的新Discover功能板](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
+* **[Marketo Measure的新Discover功能板](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
   *了解全新完全改版的Discover仪表板。*
 
