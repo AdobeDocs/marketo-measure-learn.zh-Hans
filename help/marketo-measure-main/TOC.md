@@ -3,7 +3,7 @@ user-guide-title: '[!DNL Marketo Measure] 教程'
 breadcrumb-title: '[!DNL Marketo Measure] 教程'
 user-guide-description: 了解如何充分利用 [!DNL Adobe Marketo Measure] （以前称为 [!DNL Bizible]）。 观看有关安装、入门、基础知识和定义的教程。
 auto-video-transcripts: true
-source-git-commit: 557fe2c83a26425c5c849e6260a416215ce1c7fb
+source-git-commit: 0e23db8bde1e8178bb20e9b5b8aca1dce2299f35
 workflow-type: tm+mt
 source-wordcount: '359'
 ht-degree: 7%
@@ -34,15 +34,15 @@ ht-degree: 7%
       + [活动接触点](/help/marketo-measure-main/onboarding/fundamentals/activity-touchpoints.md)
       + [抑制、分段和成本](/help/marketo-measure-main/onboarding/fundamentals/suppression-segmentation-cost.md)
    + 营销角色 {#marketing-role}
-      + [CMO和VP为何需要 [!DNL Marketo Measure] &#x200B;](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-why.md)
+      + CMO和VP的{hide-from-toc}[原因 [!DNL Marketo Measure] ](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-why.md)
       + [使用 [!DNL Marketo Measure] 作为CMO或VP](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-using.md)
-      + [为什么针对需求源/付费媒体 [!DNL Marketo Measure] &#x200B;](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-why.md)
+      + {hide-from-toc}[为什么 [!DNL Marketo Measure] 用于需求生成/付费媒体](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-why.md)
       + [使用 [!DNL Marketo Measure] 作为需求一代/付费媒体营销人员](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-using.md)
-      + [内容营销的Why [!DNL Marketo Measure] &#x200B;](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-why.md)
+      + 内容营销的{hide-from-toc}[原因 [!DNL Marketo Measure] ](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-why.md)
       + [使用 [!DNL Marketo Measure] 作为内容营销人员](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-using.md)
-      + [为什么针对事件营销进行 [!DNL Marketo Measure] &#x200B;](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-why.md)
+      + {hide-from-toc}[为什么为 [!DNL Marketo Measure] 进行事件营销](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-why.md)
       + [使用 [!DNL Marketo Measure] 作为活动营销人员](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-using.md)
-      + [电子邮件营销的Why [!DNL Marketo Measure] &#x200B;](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-why.md)
+      + 电子邮件营销的{hide-from-toc}[原因 [!DNL Marketo Measure] ](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-why.md)
       + [使用 [!DNL Marketo Measure] 作为电子邮件营销人员](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-using.md)
    + [!DNL Marketo Measure] 101 {#marketo-measure-101}
       + [什么是归因](/help/marketo-measure-main/onboarding/marketo-measure-101/what-is-attribution.md)
@@ -51,7 +51,7 @@ ht-degree: 7%
       + [接触点](/help/marketo-measure-main/onboarding/marketo-measure-101/touchpoints.md)
       + [归因模型](/help/marketo-measure-main/onboarding/marketo-measure-101/attribution-models.md)
    + [!DNL Marketo Measure] 102 {#marketo-measure-102}
-      + [&#x200B; [!DNL Marketo Measure] ROI仪表板](/help/marketo-measure-main/onboarding/marketo-measure-102/roi-dashboards.md)
+      + [ [!DNL Marketo Measure] ROI仪表板](/help/marketo-measure-main/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Stock Salesforce报表](/help/marketo-measure-main/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [其他Salesforce报表](/help/marketo-measure-main/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
       + [Data Warehouse](/help/marketo-measure-main/onboarding/marketo-measure-102/data-warehouse.md)
@@ -66,7 +66,7 @@ ht-degree: 7%
       + [接触点抑制](/help/marketo-measure-main/onboarding/marketo-measure-salesforce/touchpoint-suppression.md)
       + [活动归因](/help/marketo-measure-main/onboarding/fundamentals/activities-attribution.md)
 + [!DNL Marketo Measure]发现 {#marketo-measure-discover}
-   + [&#x200B; [!DNL Marketo Measure] Discover简介](/help/marketo-measure-main/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
+   + [ [!DNL Marketo Measure] Discover简介](/help/marketo-measure-main/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
    + [了解概述功能板](/help/marketo-measure-main/marketo-measure-discover/2023-discover-overview-dashboard.md)
    + [发现归因收入](/help/marketo-measure-main/marketo-measure-discover/2023-discover-attributed-revenue.md)
    + [了解ROI仪表板](/help/marketo-measure-main/marketo-measure-discover/2023-discover-roi-dashboard.md)
@@ -88,7 +88,7 @@ ht-degree: 7%
       + [W形模型](/help/marketo-measure-main/definitions/attribution/w-shaped-model.md)
       + [全路径模型](/help/marketo-measure-main/definitions/attribution/full-path-model.md)
    + CRM对象 {#crm-objects}
-      + [&#x200B; [!DNL Marketo Measure] 分类概述](/help/marketo-measure-main/definitions/crm-objects/taxonomy-overview.md)
+      + [ [!DNL Marketo Measure] 分类概述](/help/marketo-measure-main/definitions/crm-objects/taxonomy-overview.md)
       + [CRM对象](/help/marketo-measure-main/definitions/crm-objects/crm-objects.md)
       + [潜在客户对象](/help/marketo-measure-main/definitions/crm-objects/lead-object.md)
       + [联系对象](/help/marketo-measure-main/definitions/crm-objects/contact-object.md)
@@ -97,7 +97,7 @@ ht-degree: 7%
       + [BAT对象](/help/marketo-measure-main/definitions/crm-objects/bat-object.md)
       + [Marketo Measure人员](/help/marketo-measure-main/definitions/crm-objects/marketo-measure-person.md)
    + UTM参数 {#utm-parameters}
-      + [&#x200B; [!DNL Marketo Measure] 标记的工作方式](/help/marketo-measure-main/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
+      + [ [!DNL Marketo Measure] 标记的工作方式](/help/marketo-measure-main/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
       + [将集成平台与 [!DNL Marketo Measure]连接](/help/marketo-measure-main/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
       + [UTM参数剖析](/help/marketo-measure-main/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
       + [UTM最佳实践](/help/marketo-measure-main/definitions/utm-parameters/utm-best-practices.md)
@@ -119,4 +119,4 @@ ht-degree: 7%
    + [营销归因成熟度](/help/marketo-measure-main/evangelist-talks/marketing-attribution-maturity.md)
    + [营销归因和数据孤岛](/help/marketo-measure-main/evangelist-talks/marketing-attribution-and-data-silos.md)
 + Experience League Live录制{#experience-league-live-recordings}
-   + [Marketo Measure的新Discover功能板](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
+   + [Marketo Measure的新Discover功能板](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
